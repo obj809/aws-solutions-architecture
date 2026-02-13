@@ -2,8 +2,8 @@
 
 - s3-static-website
 - terraform-manage-infra
-- configuring-basic-vpc.png
-- iam-create-assume-roles.png
-- lambda-from-sqs-queue.png
-- deploying-aws-lambda-api-gateway-dynamo-db.png
-- ec2-instance-in-vpc.png
+- configuring-basic-vpc
+- iam-create-assume-roles
+- lambda-from-sqs-queue
+- deploying-aws-lambda-api-gateway-dynamo-db
+- ec2-instance-in-vpc
