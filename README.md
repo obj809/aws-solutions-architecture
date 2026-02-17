@@ -8,3 +8,4 @@
 - deploying-aws-lambda-api-gateway-dynamo-db
 - ec2-instance-in-vpc
 - eks-web-app
+- creating-kubernetes-cluster
