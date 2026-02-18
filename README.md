@@ -9,3 +9,4 @@
 - ec2-instance-in-vpc
 - eks-web-app
 - creating-kubernetes-cluster
+- wordpress-ec2-rds
